@@ -12,4 +12,7 @@
   display: block;
   margin: 0 auto;
   max-width: 800px;
+  background-color: rgba(242, 216, 196);
+  border-radius: 10px;
+  padding-top: 20px;
 }
